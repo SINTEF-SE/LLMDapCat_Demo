@@ -1,5 +1,7 @@
 # LLMDapCat_Demo
-Demo video for LLMDapCat:
+
+Below is a walkthrough of the LLMDapCat user interface. 
+For the full video, in higher resulution, download the file
 
 
 ## part 1 - introduction
